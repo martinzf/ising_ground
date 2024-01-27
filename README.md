@@ -1,6 +1,6 @@
 # ising_ground
 
-Python 3.11 Jupyter Notebook focussed on finding the ground state of the transverse field Ising model.
+Python 3.11 Jupyter Notebook focussed on finding the ground state of the 1D transverse field Ising model.
 
 ![alt text](preview.png)
 
